@@ -10,6 +10,7 @@ export function aaa() {
 export class MyClass {
   test = "test";
   flan() {
+    let test = 'Gegham';
     console.log(`flan called ${test}`);
   }
   doSmth() {
